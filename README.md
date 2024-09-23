@@ -5,10 +5,10 @@ The objective is to create a system that enables users to query a database using
 
 
 ## Database Used - Preview
-![week1and2_DB_](https://github.com/user-attachments/assets/0321c116-f4be-42f8-85b7-42e465546cfd)
+![week1and2_DB_](https://github.com/user-attachments/assets/0321c116-f4be-42f8-85b7-42e465546cfd)  <br>
 
-<br>
-## Results:
+## Results
+
  Some results given by the application for the queries are as follows:
 
  1. For the first query the result with the visualization chart is shown below:<br>
