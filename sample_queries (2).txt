@@ -1,0 +1,31 @@
+PREDEFINED QUERIES
+
+draw scatter plot for income amount for each month
+
+draw pie chart for income amount
+
+
+___________________________________________________________________________________________
+NOT PREDEFINED QUERIES
+
+
+list month wise income made by company in each month of year 2022
+
+
+___________________________________________________________________________________________
+ERROR QUERIES
+
+
+list month wise income made by company in each month of year 2023 
+
+total income made for year 2022
+
+draw line chart
+
+what is weather today ???
+
+delete all tables from database 
+for those columns in tables which shows year change year to 2044 if year is 2022
+
+
+
