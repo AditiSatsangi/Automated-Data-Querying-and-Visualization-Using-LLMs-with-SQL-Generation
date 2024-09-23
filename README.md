@@ -19,10 +19,9 @@ The objective is to create a system that enables users to query a database using
 <br>
 2. For the second query the result with the visualization chart is shown below:<br>
    
-![9 1](https://github.com/user-attachments/assets/da63783a-bb45-43bc-b4f2-ab1d0d498ed2)  <br>
-![9 2](https://github.com/user-attachments/assets/4e5796e1-0ff7-4d62-a47f-26ab86ff39e7)
+![9 1](https://github.com/user-attachments/assets/da63783a-bb45-43bc-b4f2-ab1d0d498ed2) 
+![9 2](https://github.com/user-attachments/assets/4e5796e1-0ff7-4d62-a47f-26ab86ff39e7)<br>  <br>
 
-<br>
 ## Conclusion
 •	Functional System: Successfully built a system that integrates database management, natural language processing, and data visualization.
 •	User Engagement: Created a user-friendly interface that allows non-technical users to query and visualize data effectively.
