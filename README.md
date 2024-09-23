@@ -23,5 +23,5 @@ The objective is to create a system that enables users to query a database using
 ![9 2](https://github.com/user-attachments/assets/4e5796e1-0ff7-4d62-a47f-26ab86ff39e7)<br>  <br>
 
 ## Conclusion
-•	Functional System: Successfully built a system that integrates database management, natural language processing, and data visualization.
+•	Functional System: Successfully built a system that integrates database management, natural language processing, and data visualization. <br>
 •	User Engagement: Created a user-friendly interface that allows non-technical users to query and visualize data effectively.
