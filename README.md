@@ -1,7 +1,7 @@
 # Automated-SQL-Query-Generation-and-Visualization-Using-LLMs
 The "Data Query and Visualization using LLM" project aims to create an intelligent interface for querying a MySQL database using natural language. The primary objective is to simplify data retrieval for users by leveraging OpenAI's GPT-3.5-turbo model to translate natural language queries into SQL. The project overview includes database creation, SQL query generation using LLM, data visualization with Streamlit, and thorough documentation.
 
-The objective is to create a system that enables users to query a database using natural language and visualize the results. We chose football and company-related databases for this project. Its significance lies in helping users query data easily in simple English rather than SQL, making it accessible for anyone to use.
+The objective is to create a system that enables users to query a database using natural language and visualize the results. We chose football and company-related databases for this project. Its significance lies in helping users query data easily in simple English rather than SQL, making it accessible for anyone to use..
 
 
 ## Database Used - Preview
